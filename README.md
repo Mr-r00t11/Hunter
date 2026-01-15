@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Mr-r00t11/Hunter/refs/heads/main/Img/DNS_Exfiltration.png)
+
 # 🕵️ DNS Forensic Analyzer - Detector de Exfiltración DNS
 
 ## 📋 Descripción
